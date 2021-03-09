@@ -1,8 +1,9 @@
-On a mission to create more owners.
+🛫 Brazilian living in NY 🗽
 
-https://carta.com/about/
 
----
+👨‍💻 software engineer @carta
+
+----------------------------------
 
 ![Ricardo Busquet's github stats](https://github-readme-stats.vercel.app/api?username=rbusquet&hide_title=true&hide=stars&theme=dark)
 
